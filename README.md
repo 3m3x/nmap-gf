@@ -1,5 +1,5 @@
 # Get it goin
-You'll need to create a bucket named `nmap-gcp` first. This is where the
+You'll need to create a bucket named `nmap-gf` first. This is where the
 deployed codebase will be stored.
 
 Then deploy the function:
