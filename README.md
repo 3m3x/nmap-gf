@@ -53,6 +53,7 @@ Nmap done: 1 IP address (1 host up) scanned in 3.99 seconds
   * probably others
 
 # TODO
-* get the directories (e.g. nselib, scripts) uploaded properly
+- [ ] get the directories (e.g. nselib, scripts) uploaded properly
   * hint: they're zipped up but Google's provisioning step doesn't seem to
       include them
+- [ ] Dump logs in scan-specific bucket
