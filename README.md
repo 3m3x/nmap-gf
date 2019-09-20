@@ -1,6 +1,9 @@
 # Get it goin
-You'll need to create a bucket named `nmap-gf` first. This is where the
-deployed codebase will be stored.
+
+Run the deployment initialisation script to create a project and bucket for the
+code to live in:
+
+`$ ./deploy-init.sh`
 
 Then deploy the function:
 
